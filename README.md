@@ -1,1 +1,1 @@
-# streamy
+# streamyx
