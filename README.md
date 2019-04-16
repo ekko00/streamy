@@ -1,5 +1,5 @@
 # streamy
 
-scrum master = luka alvarez 
+scrum master = Luka Alvarez
 
-product owner = theo meier
+product owner = Théo Meier
