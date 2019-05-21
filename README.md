@@ -4,4 +4,4 @@ scrum master = Luka Alvarez
 
 product owner = Théo Meier
 
-Florent Mottet, léo Sanna
+Florent Mottet, Léo Sanna
